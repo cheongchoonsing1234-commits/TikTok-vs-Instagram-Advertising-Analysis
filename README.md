@@ -95,20 +95,6 @@ The dataset was prepared through several stages:
 
 ---
 
-## Data Preparation Workflow
-
-<img src="Images/methodology.png" width="900">
-
----
-
-# 📊 Dashboard Overview
-
-<img src="Images/dashboard_overview.png" width="900">
-
-The Power BI dashboard provides an interactive comparison between TikTok and Instagram advertising performance using demographic analysis, AIDA scores and correlation analysis.
-
----
-
 # 📈 Dashboard 1 — Respondent Demographics
 
 <img src="Images/demographic_dashboard.png" width="900">
