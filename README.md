@@ -1,11 +1,5 @@
 # 📊 A Comparative Analysis of TikTok and Instagram Advertising Effectiveness among Undergraduate Students in Malaysia
 
-<p align="center">
-
-<img src="Images/cover.png" width="900">
-
-</p>
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Visualization-blue)
 ![Survey](https://img.shields.io/badge/Survey-200%20Respondents-success)
