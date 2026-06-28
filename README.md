@@ -97,7 +97,7 @@ The dataset was prepared through several stages:
 
 # 📈 Dashboard 1 — Respondent Demographics
 
-<img src="Images/demographic_dashboard.png" width="900">
+<img src="demographic_dashboard.png" width="900">
 
 ### Key Findings
 
@@ -112,7 +112,7 @@ The dataset was prepared through several stages:
 
 # 📱 Dashboard 2 — TikTok Performance
 
-<img src="Images/tiktok_dashboard.png" width="900">
+<img src="tiktok_dashboard.png" width="900">
 
 ### Highlights
 
@@ -137,7 +137,7 @@ TikTok performs particularly well in generating purchase desire and encouraging 
 
 # 📷 Dashboard 3 — Instagram Performance
 
-<img src="Images/instagram_dashboard.png" width="900">
+<img src="instagram_dashboard.png" width="900">
 
 ### Highlights
 
@@ -162,7 +162,7 @@ Instagram performs strongly in attracting attention and maintaining audience int
 
 # 🔥 Dashboard 4 — Comparison
 
-<img src="Images/comparison_dashboard.png" width="900">
+<img src="comparison_dashboard.png" width="900">
 
 ### Platform Comparison
 
@@ -183,7 +183,7 @@ TikTok performs better in encouraging purchase intention and action.
 
 # 📉 Dashboard 5 — TikTok Correlation Matrix
 
-<img src="Images/correlation_tiktok.png" width="900">
+<img src="correlation_tiktok.png" width="900">
 
 ### Strongest Relationship
 
@@ -197,7 +197,7 @@ This indicates that stronger purchase desire leads to higher purchasing behaviou
 
 # 📉 Dashboard 6 — Instagram Correlation Matrix
 
-<img src="Images/correlation_instagram.png" width="900">
+<img src="correlation_instagram.png" width="900">
 
 ### Strongest Relationship
 
